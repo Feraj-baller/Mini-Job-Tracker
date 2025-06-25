@@ -89,7 +89,7 @@ git clone https://github.com/yourusername/job-tracker.git
 cd job-tracker
 npm install
 cp .env.example .env.local
-```
+---
 
 Update `.env.local` with your OpenAI key:
 

@@ -1,7 +1,7 @@
 
 ---
 
-````markdown
+
 # 🚀 Job Application Tracker
 
 A modern, full-stack job application tracking system built with **Next.js 14**, **TypeScript**, and **AI-powered job description analysis**. Manage your job search efficiently, analyze job descriptions with OpenAI, and stay organized.
@@ -73,7 +73,7 @@ job-tracker/
 ├── postcss.config.js
 ├── package.json
 └── README.md
-````
+
 
 ---
 

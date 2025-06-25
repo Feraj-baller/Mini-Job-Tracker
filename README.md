@@ -73,7 +73,7 @@ job-tracker/
 └── README.md
 
 ---
-
+---
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -96,6 +96,7 @@ Update `.env.local` with your OpenAI key:
 ```env
 OPENAI_API_KEY=your_openai_api_key_here
 ```
+---
 
 Start development server:
 

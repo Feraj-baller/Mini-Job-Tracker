@@ -1,5 +1,7 @@
 
 ---
+
+````markdown
 # 🚀 Job Application Tracker
 
 A modern, full-stack job application tracking system built with **Next.js 14**, **TypeScript**, and **AI-powered job description analysis**. Manage your job search efficiently, analyze job descriptions with OpenAI, and stay organized.
@@ -71,9 +73,10 @@ job-tracker/
 ├── postcss.config.js
 ├── package.json
 └── README.md
+````
 
 ---
----
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -89,14 +92,13 @@ git clone https://github.com/yourusername/job-tracker.git
 cd job-tracker
 npm install
 cp .env.example .env.local
----
+```
 
 Update `.env.local` with your OpenAI key:
 
 ```env
 OPENAI_API_KEY=your_openai_api_key_here
 ```
----
 
 Start development server:
 
